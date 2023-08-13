@@ -17,6 +17,7 @@ For basic usage try `.help`
   For detailed help, use .help [holocron|command]
   
   Holocrons
+  
       .conquest (aliases: c, con, conq)
       Access the Conquest Holocron for reading and managing Conquest Tips
   
@@ -27,6 +28,7 @@ For basic usage try `.help`
       Access the War Holocron for reading and managing Territory War and Grand Arena Championship Counter Tips
   
   Commands
+  
       .help (aliases: h)
       Provides help on Holocron and admin commands.
   
